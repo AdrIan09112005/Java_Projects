@@ -1,4 +1,4 @@
-package Prom_Calif;
+package Promedio_Calificaciones;
 
 import java.io.BufferedReader;
 import java.io.IOException;

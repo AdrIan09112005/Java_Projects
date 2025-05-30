@@ -1,4 +1,4 @@
-package Nomina;
+package Nomina_Empleado;
 
 /**
  *

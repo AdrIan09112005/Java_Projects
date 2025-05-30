@@ -1,4 +1,4 @@
-package Control_Purchase_Sale_CashRegisters;
+package Control_Compra_Venta_Cajas;
 
 import java.io.BufferedReader;
 import java.io.IOException;

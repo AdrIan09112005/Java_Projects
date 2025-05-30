@@ -1,4 +1,4 @@
-package Sist_Regis_Vents;
+package Registro_Ventas;
 
 import java.util.ArrayList;
 import java.util.Scanner;

@@ -1,7 +1,7 @@
-package Matriz_Aleat;
+package Matriz_Aleatoria;
 
-import java.util.Scanner;
-import java.util.Random; // Usamos esta libreria para tomar generar números aleartorios
+import java.util.Random;
+import java.util.Scanner; // Usamos esta libreria para tomar generar números aleartorios
 
 /**
 *
